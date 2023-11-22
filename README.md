@@ -1,8 +1,6 @@
 ### Olá, meu nome é Gabriel Luiz 👋
 
-
-- 🔭 Procuro oportunidade na área de Tecnologia da Informação
-- 🌱 Atualmente estou estudando WordPress
+- 🌱 Atualmente estou estudando React e React Native
 
  <div align="center">
   <a href="https://github.com/GabrielLuizPacheco">
